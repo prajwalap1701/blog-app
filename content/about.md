@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=read-the-docs)](/resume.pdf)
+{{< resumelink >}}
 
 
 DevOps professional with 4+ years of experience designing, building, and deploying scalable and reliable applications.  
