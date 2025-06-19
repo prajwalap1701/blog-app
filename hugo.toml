@@ -27,7 +27,7 @@ author = "Prajwal A P"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Prajwal's personal website"
 keywords = "blog,developer,personal"
-info = ["DevOps and Cloud Engineer", "I am a DevOps Engineer passionate about automation, scalable infrastructure, and CI/CD"]
+info = ["DevOps and Cloud Engineer", "Experienced DevOps professional skilled in Kubernetes, AWS architecture, Python automation, CI/CD, and infrastructure optimization"]
 # info = ["DevOps and Cloud", "Engineer"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
@@ -153,7 +153,7 @@ url = "https://github.com/prajwalap1701"
 name = "Instagram"
 icon = "fa-brands fa-instagram fa-2x"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://www.instagram.com/prajwal_ap_17/"
 
 
 [[params.social]]
